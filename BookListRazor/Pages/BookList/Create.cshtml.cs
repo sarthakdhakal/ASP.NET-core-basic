@@ -18,6 +18,8 @@ namespace BookListRazor.Pages.BookList
         public Book Book { get; set; }
         public void OnGet()
         {
-        }
+        
+        
+        
     }
 }
